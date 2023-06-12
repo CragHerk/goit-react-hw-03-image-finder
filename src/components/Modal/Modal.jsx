@@ -1,7 +1,6 @@
 import React from 'react';
 import { Modal } from 'react-responsive-modal';
 import 'react-responsive-modal/styles.css';
-import styles from './Modal.module.css';
 
 const customModalStyles = {
   modal: {
