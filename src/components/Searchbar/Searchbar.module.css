@@ -1,0 +1,22 @@
+.searchbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid gray;
+  height: 50px;
+  width: 100%;
+  background-color: rgb(147, 147, 147);
+  position: fixed;
+  top: 0;
+}
+.button {
+  width: 100px;
+  height: 40px;
+}
+.input {
+  width: 100px;
+  height: 35px;
+}
+.loader {
+  margin-left: 40px;
+}

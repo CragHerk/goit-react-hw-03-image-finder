@@ -1,0 +1,22 @@
+.gallery__item {
+  list-style-type: none;
+}
+.image {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .image {
+    height: 465px;
+    width: 100%;
+  }
+  .gallery__item {
+    margin-right: 5px;
+    margin-bottom: 2px;
+  }
+}
+@media (min-width: 1200px) {
+  .image {
+    height: 300px;
+    width: 100%;
+  }
+}
