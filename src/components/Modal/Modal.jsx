@@ -5,7 +5,7 @@ import 'react-responsive-modal/styles.css';
 const customModalStyles = {
   modal: {
     padding: 0,
-    maxWidth: '90%',
+    maxWidth: '100%',
     width: 'auto',
   },
 };
